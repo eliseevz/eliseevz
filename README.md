@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **eliseevz/eliseevz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello everyone! I'm Alisa. 🖖Live Long and Prosper!🖖
-___________________________
-### Junior Front-end Developer
+## Welcome to my github!
+### me: Eliseev ivan / junior front-end developer
 
-- 🌱 I’m currently learning... ReactJS, node.js
-- 👯 I’m looking to collaborate on... Amazing projects.
-- 💬 Ask me about... Anything
-- 📫 How to reach me: [Instagram](https://www.instagram.com/vvonder_tech/) 
-- 📫 Also on Telegram: [Telegram](https://t.me/alisavvonder)
+- 💻 general lang: javascript (reactjs)
+- 📚 as well: nodeJS (express), mongoDB
+- 📲 contacts: [Telegram](https://t.me/eliseevz) & [Instagram](https://www.instagram.com/eliseevzz/) & eliseev.vv01@gmail.com
+- ⚡ some fact: playing guitar, going gym, designer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliseevz&theme=dark&langs_count=8&layout=compact)](https://github.com/eliseevz/)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliseevz&theme=dark&show_icons=true&&hide=issues,stars)](https://github.com/eliseevz/)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliseevz&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
