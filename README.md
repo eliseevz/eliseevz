@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hey! i'am
-### Eliseev ivan / junior front-end developer
+### Eliseev ivan / Junior Front-end Developer
 
 - 💻 general lang: javascript (reactjs)
 - 📚 as well: nodeJS (express), mongoDB
