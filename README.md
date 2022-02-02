@@ -25,6 +25,6 @@ ___________________________
 - 📫 How to reach me: [Instagram](https://www.instagram.com/vvonder_tech/) 
 - 📫 Also on Telegram: [Telegram](https://t.me/alisavvonder)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlisaWonder&theme=dark&langs_count=8&layout=compact)](https://github.com/eliseevz/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliseevz&theme=dark&langs_count=8&layout=compact)](https://github.com/eliseevz/)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlisaWonder&theme=dark&show_icons=true&&hide=issues,stars)](https://github.com/eliseevz/)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliseevz&theme=dark&show_icons=true&&hide=issues,stars)](https://github.com/eliseevz/)  
