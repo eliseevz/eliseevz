@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome to my github!
-### me: Eliseev ivan / junior front-end developer
+## Hey! i'am
+### Eliseev ivan / junior front-end developer
 
 - 💻 general lang: javascript (reactjs)
 - 📚 as well: nodeJS (express), mongoDB
